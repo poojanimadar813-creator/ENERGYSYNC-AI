@@ -1,0 +1,6 @@
+{
+  "name": "ENERGYSYNC AI",
+  "description": "AI-Powered Smart Campus Energy Management and Renewable Energy Storage Optimization System for IEEE Energy & Storage Innovation Challenge 2026, BLDEACET Vijayapura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
